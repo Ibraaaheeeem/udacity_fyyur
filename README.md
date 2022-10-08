@@ -36,7 +36,7 @@ pip install Flask-Migrate
 ### 2. Frontend Dependencies
 The app uses **HTML**, **CSS**, and **Javascript** with [Bootstrap 3](https://getbootstrap.com/docs/3.4/customize/) for the website's frontend. 
 
-### 3. Running the app
+## 3. Running the app
 
 ```cd``` into the project folder
 Create a virtual environment using ```python -m venv <name of virtual environment>```
