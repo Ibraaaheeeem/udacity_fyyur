@@ -5,14 +5,16 @@ Fyyur - Udacity SQL and Data Modeling Project
 
 Fyyur is a musical venue and artist booking site that facilitates the discovery and bookings of shows between local performing artists and venues. This site lets you list new artists and venues, discover them, and list shows with artists as a venue owner. A starter code was provided and the task was to complete it to full functionality implementing data from database as opposed to hardcoded values within the program
 
-My job is to build out the data models to power the API endpoints for the Fyyur site by connecting to a PostgreSQL database for storing, querying, and creating information about artists and venues on Fyyur.
+My job was to build out the data models to power the API endpoints for the Fyyur site by connecting to a PostgreSQL database for storing, querying, and creating information about artists and venues on Fyyur.
 
 ## Overview
 
-This app was nearly complete. It was only missing one thing… real data! While the views and controllers are defined in this application, it is missing models and model interactions to be able to store retrieve, and update data from a database. At the end of this project, I had a fully functioning site that is at least capable of doing the following, if not more, using a PostgreSQL database:
+This app was nearly complete. It was only missing real data. While the views and controllers are defined in this application, it was missing models and model interactions to be able to store retrieve, and update data from a database. At the end of this project, I had a fully functioning site that is at least capable of doing the following, if not more, using a PostgreSQL database:
 
-* creating new venues, artists, and creating new shows.
+* creating new venues, artists.
+* creating new shows.
 * searching for venues and artists.
+* edit or delete a venue or artist and associated show(s)
 * learning more about a specific artist or venue.
 
 ## Tech Stack (Dependencies)
